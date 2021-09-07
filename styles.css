@@ -1,0 +1,37 @@
+*:not(span)  {
+    margin: 10px;
+    padding: 5px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-size: 80px;
+    font-weight: bolder;
+    text-align: left;
+    font-family: sans-serif;
+    
+}
+
+h2 {
+    background-color:rgb(91, 45,142);
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-weight: normal;
+    font-family: serif;
+}
+
+
+h3 {
+    background-color:rgb(149, 189, 247);
+    color:rgb(42,34,85);
+    text-decoration: underline;
+    text-align: end;
+    font-weight: lighter;
+}
+
+span {
+    color: rgb(0,255,255);
+
+}
